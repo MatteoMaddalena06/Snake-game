@@ -23,5 +23,6 @@ and then:
 
 Where row and col are the size of the field. The minimum size that the field can assume is 5x5;
 In case of error, use this command and then try again:
+
     sudo apt-get install build-essential
 
