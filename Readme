@@ -1,0 +1,4 @@
+Snake developed completely in C language without the use of any graphic library or non-blocking function.
+The program consists of two threads synchronized with each other through the use of semaphores: one for updating the screen, the other for acquiring characters from the keyboard;
+
+
